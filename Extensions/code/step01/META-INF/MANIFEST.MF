@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-Date: 2016-10-13 08:19:39
+version: "1.0.1.0"
+id: "5D5F41DB-9B87-5365-3B93F9F6EC70DC5F"
+name: "CFCamp 2016 Extension"
+description: "Example of an Extension that contains a Website and more."
+lucee-core-version: "5.0.0.255"
+release-type: web
