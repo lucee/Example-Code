@@ -1,5 +1,5 @@
 component {
-	this.name="CFCamp2016";
+	this.name="example";
 
 	/* datasource definition including bundle data, so Lucee downloads the jar if necessary
 	this.datasources["mydb"] = {

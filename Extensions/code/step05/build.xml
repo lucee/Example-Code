@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="clean" basedir="." name="cfcamp2016-extension">
-	<description>Build process for the CFCamp extension</description>
+<project default="clean" basedir="." name="example-extension">
+	<description>Build process for the example extension</description>
 
   <!-- load the build.properties -->
   <property file="build.properties"/>

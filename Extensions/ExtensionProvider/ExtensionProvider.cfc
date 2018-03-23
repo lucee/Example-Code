@@ -90,9 +90,9 @@
 		
 		var rtn.meta={};
 		
-		rtn.meta.title="CFCamp 2016 Extensions ("&cgi.HTTP_HOST&")";
+		rtn.meta.title="Example Extensions ("&cgi.HTTP_HOST&")";
 		rtn.meta.description="";
-		rtn.meta.image="https://www.cfcamp.org/asset/0ECE4AAA-3A0C-4C4D-BD55AF95F15328C6/logosmall/219fbf4f0a0a0aa421c07ec12efabd02/";
+		//rtn.meta.image="";
 		rtn.meta.url="http://"&cgi.HTTP_HOST;
 		rtn.meta.mode="develop";
 
