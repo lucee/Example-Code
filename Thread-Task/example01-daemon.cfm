@@ -1,7 +1,7 @@
 
 <cfscript>
 
-thread name="test" type="deamon" {
+thread name="test" type="daemon" {
 	throw "hopala!";
 }
 thread action="join" name="test";
